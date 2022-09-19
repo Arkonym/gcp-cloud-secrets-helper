@@ -1,6 +1,6 @@
 {
   "name": "gcp-cloud-secrets-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helper package to make accessing, versioning, and creating GCP cloud secrets a bit easier. Intended for usage in applications running in GCP instances - Cloud Functions, App Engine, Compute Engine, CloudRun.",
   "main": "index.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RSaitta/gcp-cloud-secrets-helper.git"
+    "url": "git+https://github.com/Arkonym/gcp-cloud-secrets-helper"
   },
   "keywords": [
     "google",
@@ -23,9 +23,9 @@
   "author": "RSaitta",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RSaitta/gcp-cloud-secrets-helper/issues"
+    "url": "https://github.com/Arkonym/gcp-cloud-secrets-helper/issues"
   },
-  "homepage": "https://github.com/RSaitta/gcp-cloud-secrets-helper#readme",
+  "homepage": "https://github.com/Arkonym/gcp-cloud-secrets-helper#readme",
   "dependencies": {
     "@google-cloud/secret-manager": "^4.1.2"
   }

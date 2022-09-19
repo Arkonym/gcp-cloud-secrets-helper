@@ -1,7 +1,7 @@
 {
   "name": "gcp-cloud-secrets-helper",
   "version": "1.0.0",
-  "description": "Helper package to make accessing, versioning, and creating GCP cloud secrets a bit easier. Intended for usage in applications running in GCP instances - Cloud Functions, App Engine, Compute Engine, CloudRun",
+  "description": "Helper package to make accessing, versioning, and creating GCP cloud secrets a bit easier. Intended for usage in applications running in GCP instances - Cloud Functions, App Engine, Compute Engine, CloudRun.",
   "main": "index.js",
   "directories": {
     "lib": "lib"
